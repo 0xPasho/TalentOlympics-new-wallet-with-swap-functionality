@@ -11,10 +11,10 @@ Scope of Work: Design and develop a flexible wallet that is both embedded and br
 Scope of Work: Create a wallet that facilitates peer-to-peer (P2P) asset swaps. The wallet should support the swapping of at least four different assets by default and incorporate a pricing mechanism (oracles) to ensure optimal swaps.
 
 ## Demo video
-
-```
-link
-```
+<video height="300" controls>
+  <source src="public/preview.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Proposed solution
 

@@ -12,6 +12,8 @@ Scope of Work: Create a wallet that facilitates peer-to-peer (P2P) asset swaps. 
 
 ## Demo video
 <video src="public/preview.mp4" width="320" height="240" controls></video>
+<a href="public/preview.mp4">In case of not loading, go to video inside public/preview.mp4</a>
+
 
 ## Proposed solution
 
